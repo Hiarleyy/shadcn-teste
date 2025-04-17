@@ -1,6 +1,6 @@
 "use client"
 
-import {Card, CardContent, CardDescription, CardHeader, CardTitle} from "@/components/ui/card";
+import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
 import { ChartContainer } from "@/components/ui/chart";
 import { DollarSign } from "lucide-react";  
 import { BarChart, CartesianGrid, XAxis, Bar, Tooltip } from "recharts";
